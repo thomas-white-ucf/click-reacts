@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Ajak",
+      "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/445ajk_com_crd_01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Angel",
+      "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/angelult442.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Spider-Man",
+      "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/005smp_ons_crd_02.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Apocalypse",
+      "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/aoa_apoc.jpg"
+    },
+    {
+      "id": 5,
+      "name": "All-American",
+      "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/all-american.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ares",
+      "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ares(olympian)_head.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Arachne",
+      "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spiderjulia.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Arides",
+      "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/arides442.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Yondu",
+      "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/044ynd_ons_crd_01-1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Venom",
+      "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ultimatevenom.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Taskmaster",
+      "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/taskmasterearth-8909.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Tess-One",
+      "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/tess1.jpg"
+    }
+]
