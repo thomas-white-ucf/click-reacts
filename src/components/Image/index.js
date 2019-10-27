@@ -5,7 +5,7 @@ import "./style.css";
 function Image(props) {
 
     return (
-      <div className="card remove" onClick={() => props.removeCharacter(props.id)}>
+      <div className="card remove" onClick={() => props.shuffleCharacters(props.id)}>
           <div className="img-container">
              <img alt={props.name} src={props.image} />
           </div>
