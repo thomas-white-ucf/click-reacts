@@ -1,0 +1,26 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  color: rgba(170, 193, 212, 0.829);
+  margin-bottom: 5px;
+}
+.subtitle {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  color: rgba(211, 234, 238, 0.788);
+  margin-bottom: 5px;
+  font-weight: 100;
+}
+header {
+  width: 100%;
+  background-image: url("./prism.png");
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+}
+.scoreDiv {
+  color: greenyellow;
+  font-size: 6ex;
+  text-align: center;
+}
